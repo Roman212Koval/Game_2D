@@ -1,0 +1,33 @@
+﻿  Source.cpp
+D:\Project1\Project1\Source.cpp(36,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Project1\Project1\Source.cpp(42,43): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Project1\Project1\Source.cpp(139,1): warning C4305: =: усечение из "double" в "float"
+D:\Project1\Project1\Source.cpp(150,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Project1\Project1\Source.cpp(156,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Project1\Project1\Source.cpp(159,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\Project1\Project1\Source.cpp(189,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project1\Project1\Source.cpp(190,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project1\Project1\Source.cpp(195,53): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project1\Project1\Source.cpp(197,54): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project1\Project1\Source.cpp(286,52): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Project1\Project1\Source.cpp(301,15): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\Project1\Project1\Source.cpp(319,16): warning C4305: =: усечение из "double" в "float"
+D:\Project1\Project1\Source.cpp(324,15): warning C4305: =: усечение из "double" в "float"
+D:\Project1\Project1\Source.cpp(330,18): warning C4305: =: усечение из "double" в "float"
+  Project1.vcxproj -> D:\Project1\Debug\Project1.exe

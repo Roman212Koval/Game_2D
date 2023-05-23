@@ -1,0 +1,20 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  
+B                                                                                                          B  
+B                                                                                                          B  
+BB                                                  000 000     0      W         0      000                B  
+B                                                 BBBBBBBBBBB   B   BBBBBBBBB    B   BBBBBBBB0           W B  
+B0 W                0 0                          BBBBBBBBBBBB   B   BBBBBBBBB    B   BB BBBBBBB          BBB  
+BBBBB    B   B  B  BBBBB                        BB                                                      BBBB  
+BB                                             BBB                                                      BBBB  
+BB                          BB       0       BBBBB                                                       BBB  
+BB                                   BBB                       0           00000                        BBBB  
+BB    0                            BBBBBB                     BB         BBBBBBBBBB                        B  
+BB    B   B          00         BBBBBBBBBB         BBB               BB                         B          B  
+BBB           0BBBBBBBBBBBBBBBBBBBBBBBBBBBB                                                        W BB    B  
+B             B                B       BBBBB              WW  BBBB                               BBBB      B  
+BW0          B  B  B BBBBB  B B             BB          BBBBBBBB BB                             BB        BB  
+BBBB        BB  B B  B  BB  B B                     BBBBBBB       BBW                           BB        BB  
+BBBB      0BBB  BB   B  BB  B B              W  BBBBBBB            BB                          BB        BBB  
+B   B     BBBB  B B  B  BB  B B             BBBBBBB                                           WB        B  B  
+B WWBB   BBBBB  B  B B  BB  B B  0      BBBBBBBWW B  00 00  W         B       0000          BBBB 0000   BW B  
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB  

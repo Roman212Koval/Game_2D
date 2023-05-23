@@ -1,0 +1,20 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  
+B                                               BH                                                         H  
+B                                               BH                                                         H  
+B 00 WW W         000        WW           000 W BH   00                                                  0 H  
+BBBBBBBBBBBBBB   BBBBB  B  BBBBBB      BBBBBBBBBBHHHHHHHHH  HHHHHHHHHHH   HHHHHHHHHHHHHHHHHHHHHHHH      HHHH  
+B                                     BB        BH                                                H     H  H  
+B   W                                BBB       0BH    00  0                                            HHHHH  
+BBBBBBBB                            BBB        BBHHHHHHHHHHHHHHHHHHHHHHHHHHH                         HHHHHHH  
+B                              BBBBBBB         WBH                                              0  HHHH    H  
+B                             B              BBBBH                                             HHHHHH      H  
+BW            B          BBBBB        W   B     BH  0000000000                           HHHHHHHH          H  
+BBB            BB       B              B        BHHHHHHHHHHHHHHHH              HH    HHHHHHHHH             H  
+B     B          BB              W              WW              HHHHHHHHHHHH         H                     H  
+B   BB    B          B      00 BBBBBB           WW                         HHHH                            H  
+B WB            000  B   BBBBBB                 BH                            HHHHHH         HHHHH         H  
+B0B           BBBBBBBB                         BBHH                                      HHHHHHHHH         H  
+BB         B                                  BBBHHH                H                HHHHHHHHHHHHHH        H  
+BB        BB W          W     W    W   W     BBBBHHHH              HHH         HHHHHHHHHHHHHHHHHHHH   0    H  
+BB  0    BBBBBBBBB      B  0  B  0 B 0 B   BBBBBHHHHHHH     000    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH  
